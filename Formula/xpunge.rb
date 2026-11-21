@@ -1,8 +1,8 @@
 class Xpunge < Formula
   desc "See how much disk space Xcode uses, and reclaim it safely"
   homepage "https://github.com/ajithrnayak/xpunge"
-  url "https://github.com/ajithrnayak/xpunge/releases/download/v0.1.0/xpunge-0.1.0-macos-universal.tar.gz"
-  sha256 "0594ab091a11602462b35255c724fc2b0dd28cc989109754fbeaf1e7051aee48"
+  url "https://github.com/ajithrnayak/xpunge/releases/download/v0.1.1/xpunge-0.1.1-macos-universal.tar.gz"
+  sha256 "9ea71d5784217f912bccd83614527e0960c1183faf384bfeabf60cc906992be1"
   license "MIT"
 
   depends_on macos: :ventura
